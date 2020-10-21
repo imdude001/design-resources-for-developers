@@ -1,4 +1,4 @@
-![Repository Banner](headerimage.png)
+
 #### Please read [`contributing guidelines`](./contributing.md) before submitting new resources.
 
 ## Table of Contents
@@ -1009,27 +1009,4 @@
 | [Tiny helpers](https://tiny-helpers.dev/)| A collection of free single-purpose online tools for web developers |
 | [CSS Ribbon Generator](https://www.cssportal.com/css-ribbon-generator/)| This generator will assist in creating a pure CSS corner ribbon. |
 | [Can I Use](https://caniuse.com/) | Check cross-browser compatibility of frontend technologies. |
-| [kangax-js-compat-table](https://kangax.github.io/compat-table/es6/) | Check JavaScript versions (ES5, ES6, ES2016+ etc.) compatibility across different compilers, servers/runtimes and platforms (Desktop and Mobile).|
-| [mydevice.io](https://www.mydevice.io/)| Most commonly used device resolutions including phones and tablets |
-| [Codepen](https://codepen.io/) | Build, test and discover frontend code. |
-| [Responsively](https://manojvivek.github.io/responsively-app/) | A tool for designers and frontend developers to design and debug their in all platforms with ease |
-| [html2pdf.js](https://ekoopmans.github.io/html2pdf.js/) | Client-side HTML-to-PDF rendering using pure JS. |
-| [CSS Reference](https://cssreference.io/) | A collection of all css properties and definitions in detail |
-| [Critical Path CSS Generator](https://www.sitelocity.com/critical-path-css-generator) | Generate critical css for your web pages |
-| [SVG Gobbler](https://github.com/rossmoody/svg-gobbler) | Browser extension to find SVGs on a webpage and download, copy to clipboard, or export as PNG. |
-| [shortcode.dev](https://shortcode.dev) | A collection of useful snippets and code examples for HTML, CSS, JavaScript, Node, Artisan, Blade and more.  |
-| [PlayCode](https://playcode.io/) | Javascript playground.  |
-| [All The Tags](https://allthetags.com/) | All HTML tags briefly explained. |
-| [Vue Telemetry](https://vuetelemetry.com/) | Reveal the Vue plugins and technology stack powering any website or explore a database of 5500+ websites. |
-| [Grid.js](https://gridjs.io/) | Grid.js is a Free and open-source HTML table plugin written in TypeScript. It works with most JavaScript frameworks, including React, Angular, Vue and VanillaJs. |
-| [Gerillass](https://gerillass.com/) | Gerillass is a website development tool built on top of Sass with a set of Sass mixins and functions for frontend developers to generate scalable CSS outputs. |
-| [Sketchize](https://www.sketchize.com/) | Sketchize is built for UI/UX Designers to help them design lovely apps for mobile, tablet, and desktop devices. |
-| [{CSS}Portal](https://www.cssportal.com/) | CSSPortal is home to a large range of CSS generators, tools and resources. |
-| [DevDocs](https://devdocs.io/) | DevDocs combines multiple API documentations in a fast, organized, and searchable interface. |
-| [papersizes](https://papersizes.io/) | The best resource for International Paper Sizes, Dimensions & Formats. |
-| [Match Stick](https://matchstick.xyz/) | Visually compare your code and designs. Compare your mockups with your live website to pinpoint any missing details. |
-| [flexboxfroggy](http://flexboxfroggy.com/) | Help Froggy and friends by writing CSS code! |
-
-<div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
-</div>
+| [kangax-js-compat-table](https://kangax.github.io/compat-table/es6/) | Check JavaScript versions (ES5, ES6, ES2016+ etc.) compatibility across different compilers, servers/run
